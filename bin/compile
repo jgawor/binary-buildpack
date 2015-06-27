@@ -1,2 +1,9 @@
 #! /bin/sh
-exit 0
+
+echo "env"
+/usr/bin/env
+
+echo "app"
+find $1
+
+
