@@ -12,3 +12,6 @@ find /home/vcap/
 
 echo "tmp"
 find /tmp
+
+echo "task"
+cat /tmp/staged/logs/staging_task.log
