@@ -1,5 +1,7 @@
 #! /bin/sh
 
+ruby -v
+
 echo "env"
 /usr/bin/env
 
